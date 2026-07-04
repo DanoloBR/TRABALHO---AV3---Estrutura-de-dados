@@ -1,6 +1,6 @@
 # TRABALHO---AV3---Estrutura-de-dados
 
-Trabalho_Final_Estruturas_Dados/
+Trabalho_Final_Estruturas_Dados/\n
 ├── README.md
 ├── Trabalho_A/
 │   ├── trabalho_a.c
